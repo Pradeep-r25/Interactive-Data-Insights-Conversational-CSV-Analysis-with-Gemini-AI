@@ -16,10 +16,10 @@ model = genai.GenerativeModel("gemini-1.5-flash")
 ``` 
 
 Usage:
-Run the notebook.
-Enter the path to your CSV file when prompted.
-Ask questions about the CSV data in natural language.
-Type exit to quit the application.
+- Run the notebook.
+- Enter the path to your CSV file when prompted.
+- Ask questions about the CSV data in natural language.
+- Type exit to quit the application.
 
 Example Questions:
 Here are some example questions you can ask about your CSV data:
