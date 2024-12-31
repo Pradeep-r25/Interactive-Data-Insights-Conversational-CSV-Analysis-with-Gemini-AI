@@ -24,11 +24,11 @@ Usage:
 Example Questions:
 Here are some example questions you can ask about your CSV data:
 
-"What is the total number of rows in the dataset?"
-"What are the column names?"
-"Show me the first 5 rows."
+- "What is the total number of rows in the dataset?"
+- "What are the column names?"
+- "Show me the first 5 rows."
 
 Acknowledgements:
-Powered by Google Gemini AI.
-Built with Python and Jupyter Notebook.
-css
+- Powered by Google Gemini AI.
+- Built with Python and Jupyter Notebook.
+- css
