@@ -1,4 +1,5 @@
-Interactive Data Insights: Conversational CSV Analysis with Gemini AI
+#Interactive Data Insights: Conversational CSV Analysis with Gemini AI#
+
 CSV AI Assistant is an interactive tool designed to help users explore and analyze CSV files using natural language questions. Powered by Google Gemini AI, this project simplifies data analysis by enabling conversational interactions and quick insights.
 
 Features:
